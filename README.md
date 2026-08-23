@@ -16,7 +16,7 @@ A beginner project where I installed and configured Nginx web server on Linux (v
 ## Screenshots
 
 **Nginx running status:**
-![Nginx Status](nginx status.png)
+![nginx status](nginxstatus.png)
 
 **Custom styled webpage in browser:**
 ![Browser](browser.png)
